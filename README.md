@@ -27,7 +27,7 @@
 
 const vamshi = {
   role      : "AI Engineer & Full-Stack Developer",
-  location  : "Pune, Maharashtra, India",
+  location  : "hyderabad telangana India",
   education : "B.E. AI/ML — Newton School of Technology × ADYPU",
 
   openSource : {
@@ -268,14 +268,11 @@ const vamshi = {
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/kantrolv">
+  <a href="https://www.linkedin.com/in/vamshi-krishna-4b5873333/">
     <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=b3ff00"/>
   </a>
-  <a href="mailto:kantrol.vamshikrishna@adypu.edu.in">
+  <a href="mailto:kantrolvamshikrishnarao@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=b3ff00"/>
-  </a>
-  <a href="https://research-aiassistant.streamlit.app/">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=b3ff00"/>
   </a>
   <a href="https://www.codechef.com/users/kantrolv">
     <img src="https://img.shields.io/badge/CODECHEF-0a0a0a?style=for-the-badge&logo=codechef&logoColor=b3ff00"/>
